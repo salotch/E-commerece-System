@@ -1,6 +1,6 @@
-# E-commerce System - Internship Task
+# E-commerce System - Fawry Internship Task
 
-This project implements a console-based e-commerce system using the Composition Over Inheritance design principle to provide flexibility for product behaviors.
+This project implements a console-based e-commerce system using OOP and design principles to provide flexibility for product behaviors.
 
 ## Features
 
@@ -29,7 +29,7 @@ This project implements a console-based e-commerce system using the Composition 
 
 ## Class Diagram
 
-![Class Diagram](class-diagram.png)
+![Class Diagram](assets/class-diagram.png)
 
 ## Technologies
 

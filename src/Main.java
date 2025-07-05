@@ -12,7 +12,7 @@ public class Main {
                                                                                                                        // to
                                                                                                                        // test
         Product tv = new Product("TV", 3000, 5, new NonExpirable(), new Shippable(10));
-        Product scratchCard = new Product("Scratch Card", 50, 20, new Expirable(LocalDate.of(2025, 8, 1)),
+        Product scratchCard = new Product("Scratch Card", 50, 20, new NonExpirable(),
                 new NonShippable());// !reduce the quantity to test
         // this train ticket is not shippable but it can expire
         Product trainDigitalTickets = new Product("Digital Tickets to alexandria", 120, 180,
